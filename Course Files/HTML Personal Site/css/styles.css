@@ -24,3 +24,12 @@ h3 {
 .robot {
 	background-color: green;
 }
+
+.circular {
+	border-radius: 100%;
+}
+
+/* ID SELECTORS */
+#heading {
+	color: blue;
+}
